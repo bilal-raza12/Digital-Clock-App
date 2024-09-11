@@ -1,7 +1,7 @@
 "use client";
 import { useState , useEffect , useMemo } from "react";
-import { Button } from "./button";
-import { Card } from "./card";
+import { Button } from "./ui/button";
+import { Card } from "./ui/card";
 
 
 export default function DigitalClockComponent() {
